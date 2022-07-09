@@ -1,5 +1,7 @@
 # ArrayFuck
 
+![logo](ArrayFuck.png)
+
 ArrayFuck is an esoteric programing language.
 
 ## Overview
